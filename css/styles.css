@@ -1,3 +1,8 @@
+@font-face {
+    name: 'Made Mirage',
+        url:''
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -5,7 +10,7 @@
 
 body {
     background: #000;
-    font-family: "Neue Montreal";
+    font-family: "Made Mirage";
 }
 
 .home {
@@ -22,7 +27,8 @@ nav {
     z-index: 2;
 }
 
-.menu__logo, .menu__items-link {
+.menu__logo,
+.menu__items-link {
     padding: 40px;
 }
 
@@ -175,7 +181,7 @@ p.about__container-link {
     width: 300px;
     height: 400px;
     z-index: -1;
- 
+
     user-select: none;
     pointer-events: none;
     transform: translate(5px, 5px);
@@ -203,7 +209,7 @@ p.about__container-link {
     text-align: center;
 }
 
-.project__container-title h1{
+.project__container-title h1 {
     color: #fff;
     font-family: "GrandSlang Roman";
     font-size: 140px;
@@ -297,7 +303,10 @@ p.about__container-link {
         width: 90%;
     }
 
-    .project__image-one, .project__image-two, .project__image-three, .project__image-four {
+    .project__image-one,
+    .project__image-two,
+    .project__image-three,
+    .project__image-four {
         position: relative;
         top: 0;
         left: 0;

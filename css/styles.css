@@ -1,6 +1,5 @@
 @font-face {
-    name: 'Made Mirage',
-        url:''
+    name: 'Made Mirage'
 }
 
 * {
@@ -176,7 +175,7 @@ p.about__container-link {
 
 .cursor-follow {
     position: absolute;
-    background: url(../images/cursor.jpeg) no-repeat 50% 50%;
+    background: url(../assets/img/face_pic/Giulia_Belloni.png) no-repeat 50% 50%;
     background-size: cover;
     width: 300px;
     height: 400px;

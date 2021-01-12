@@ -42,6 +42,10 @@ nav {
   text-decoration: none;
 }
 
+.menu__logo a svg {
+  width: 40px;
+}
+
 .menu__items {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -98,27 +102,27 @@ nav {
 }
 
 .container__item-1 {
-  background: url(../images/img-one.jpeg) no-repeat 50% 50%;
+  background: url(../assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 
 .container__item-2 {
-  background: url(../images/img-two.jpeg) no-repeat 50% 50%;
+  background: url(../assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 
 .container__item-3 {
-  background: url(../images/img-three.jpeg) no-repeat 50% 50%;
+  background: url(../assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 
 .container__item-4 {
-  background: url(../images/img-four.jpeg) no-repeat 50% 50%;
+  background: url(../assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 
 .container__item-5 {
-  background: url(../images/img-five.jpeg) no-repeat 50% 50%;
+  background: url(../assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 

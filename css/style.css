@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Made Mirage';
-  src: url("assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.woff2") format("woff2"), url("assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.woff") format("woff"), url("assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.svg") format("svg"), url("assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.ttf") format("truetype");
+  src: url("../assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.woff2") format("woff2"), url("../assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.woff") format("woff"), url("../assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.svg") format("svg"), url("../assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.ttf") format("truetype");
   font-weight: medium;
 }
 
@@ -108,27 +108,27 @@ nav {
 }
 
 .container__item-1 {
-  background: url(assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
+  background: url(../assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 
 .container__item-2 {
-  background: url(assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
+  background: url(../assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 
 .container__item-3 {
-  background: url(assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
+  background: url(../assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 
 .container__item-4 {
-  background: url(assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
+  background: url(../assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 
 .container__item-5 {
-  background: url(assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
+  background: url(../assets/img/uploads/charlies_angels/_MG_0384-1.jpg) no-repeat 50% 50%;
   background-size: cover;
 }
 

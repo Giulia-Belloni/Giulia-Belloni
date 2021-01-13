@@ -1,5 +1,7 @@
 @font-face {
-  name: 'Made Mirage';
+  font-family: 'Made Mirage';
+  src: url("assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.woff2") format("woff2"), url("assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.woff") format("woff"), url("assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.svg") format("svg"), url("assets/fonts/Made-Mirage/Medium/hinted-MADEMirage-Medium.ttf") format("truetype");
+  font-weight: medium;
 }
 
 :root {

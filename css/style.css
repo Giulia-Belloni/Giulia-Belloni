@@ -255,6 +255,13 @@ nav {
   padding: 40px 0;
 }
 
+.project__container .project__image {
+  background: url(https://github.com/Giulia-Belloni/Giulia-Belloni/blob/main/assets/img/charlies_angels/_MG_0404-1.jpg) no-repeat 50% 50%;
+  width: 600px;
+  height: 500px;
+  margin: 40px auto;
+}
+
 .project__container .project-next-link {
   position: relative;
   top: -100px;
